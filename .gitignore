@@ -44,3 +44,6 @@ nodeLanguageServer/**
 nodeLanguageServer.*/**
 # Custom:
 .pylintrc
+.ipynb_checkpoints/
+**/models/*.pt
+**/models/**/*.pt
